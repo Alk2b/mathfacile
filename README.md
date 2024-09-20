@@ -19,5 +19,5 @@ v1.1 ; 3 fichiers avec l'extension py ; Date : sun feb 9 2020
 v1.2 ; 3 fichiers avec l'extension py ; Date : wed feb 9 2022
 
 nombre de commit(s) depuis la 1.2 :
-1 commit : " Ajout de la racine carré " 
+2 commit : " Ajout de la racine carré " et " ajout de cosinus et tengente "
 
