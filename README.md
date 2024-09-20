@@ -6,7 +6,7 @@ permettant d’effectuer des opérations mathématiques très simples.
 nom des personnes qui ont commits : 
 - Hypatie d'Alexandrie
 - Ada Lovelace
-- ?
+- Edsger Dijkstra
 
 nom des branches pas fusionnées : 
 - trigonométrie
